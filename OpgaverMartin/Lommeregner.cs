@@ -65,16 +65,11 @@ namespace OpgaverMartin
                 Console.Write("=" + resutat);
             }
 
-            Console.Write("\n\n\t\t\t" + "\nPress any key to exit");
+            //Console.Write("\n\n\t\t\t" + "\nPress any key to exit");
 
 
 
-            //Console.WriteLine("Input first number");
-            //aInput1 = Convert.ToDouble(Console.ReadLine());
-            //Console.WriteLine("Input seckund number");
-            //aInput2 = Convert.ToDouble(Console.ReadLine());
-
-            //Console.WriteLine(aInput1 + aInput2);
+            
 
         }
 
